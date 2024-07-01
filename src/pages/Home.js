@@ -20,7 +20,7 @@ const Home = () => {
     
   }
 
-  
+  console.log("hi")
 
   // if (!currentUser) {
   //   return   navigate('/login')
